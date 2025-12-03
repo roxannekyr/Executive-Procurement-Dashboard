@@ -25,11 +25,10 @@ Dynamic Visuals: Used field parameters to allow users to switch views between "S
 - <b>Power Query</b>
 - <b>DAX</b>
 
-<h2>Power BI Dashboard walk-through:</h2>
+<h2>Power BI Dashboard Dashboard:</h2>
 
 
-Sales KPI Summary: <br/>
-<img src="https://i.imgur.com/KXCRxUs.png" height="80%" width="80%" alt="AdventureWorks Executive Sales Dashboard"/>
+<img src="https://i.imgur.com/sJJBD7I.png" height="80%" width="80%" alt="Procurement Dashboard"/>
 <br />
 <br />
 
